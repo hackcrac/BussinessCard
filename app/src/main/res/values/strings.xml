@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bussiness Card</string>
+    <string name="regxl">" REGXL "</string>
+    <string name="phone_number">1234567890</string>
+    <string name="username">\@regxl</string>
+    <string name="email">xyz@gmail.com</string>
+    <string name="android_developer">Android Developer</string>
+</resources>
